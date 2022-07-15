@@ -1,2 +1,2 @@
-from .infra_distribution import InfraDistribution, InfraPolytope
+from .infradistribution import InfraDistribution, InfraPolytope
 from .sa_measure import SaMeasure
